@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2023-12-15T23:45:17.1870799Z"
+    },
+    "sqlite1": {
+      "restored": true,
+      "restoreTime": "2023-12-15T23:45:21.0393086Z"
+    }
+  },
+  "parameters": {}
+}
